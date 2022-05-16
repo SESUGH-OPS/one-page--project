@@ -36,7 +36,7 @@ a {
 #hero .hero {
     max-width: 1200px;
     margin: 0 auto;
-    padding: 0 30px;
+    padding: 0 50px;
     justify-content: flex-start;
 }
 
